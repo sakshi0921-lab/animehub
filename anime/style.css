@@ -328,6 +328,7 @@ ol {
     border-left: 4px solid #ff6347;
     padding-left: 20px;
     animation: fadeInLeft 1s ease; 
+    font-size:19px;
 }
 
 /* Character Images */
